@@ -52,6 +52,10 @@ h1{
 .responsive2{
     padding-left: 10%;
 }
+.last-responsive{
+    padding-left: 20%;
+    padding-top: 5%;
+}
 .misson-customise{
     text-align: center;
 }
@@ -88,4 +92,38 @@ h1{
     background-size: 20%;
     background-position: left center;
     
+}
+.banner-bg2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: right bottom;
+    
+    
+}
+.signup-img{
+    width: 70%;
+    margin-left: 50%;
+    
+
+    background-image: url(images/shapes/shape-2.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    
+
+}
+footer h2{
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+footer h6{
+    text-align: center;
+    color: grey;
+}
+footer{
+    background-color: black;
+    height: 140px;
+    padding-top: 10px;
 }
