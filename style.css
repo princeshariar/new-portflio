@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    margin: 0 auto;
+}
+span{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+    font: bold;
+}
+.button-customize{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(grey,orange);
+    border-radius: 10px;
+    color: white;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 100px;
+    margin-right: 10%;
+}
+.flex-container2{
+    display: flex;
+
+    margin-right: 10%;
+    margin-bottom: 150px;
+
+}
+.flex-container3{
+    display: flex;
+    margin-bottom: 150px;
+    margin-right: 10%;
+    
+}
+
+ .banner-img{
+    width: 75%;
+    margin-left: 30%;
+    
+} 
+.banner-img2{
+    width: 60%;
+    margin-left: 23%;
+}
+.responsive{
+    padding-left: 10%;
+    padding-top: 10% ;
+}
+.responsive2{
+    padding-left: 10%;
+}
+.misson-customise{
+    text-align: center;
+}
+.image-customize{
+    height: 150px;
+    width: 150px;
+    margin-left: 15PX;
+    
+}
+.img-bg1{
+    
+    border-radius: 10px;
+    margin-right: 20px;
+    background-color: rgb(230, 231, 247);
+}
+.img-bg2{
+    border-radius: 10px;
+    margin-right: 20px;
+    background-color: rgb(247, 230, 232)
+}
+.img-bg3{
+    border-radius: 10px;
+    margin-right: 20px;
+    background-color: rgb(247, 246, 230)
+}
+.beauty{
+    padding-left: 30px;
+    text-align: justify;
+    padding-right: 30px;
+}
+.banner-bg{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left center;
+    
+}
